@@ -1,4 +1,4 @@
-const int val_size = 3234;
+const int val_size = 3;
 int values[val_size] = {0, 0, 0};
 bool isValids[val_size] = {false, false, false};
 const int OUT_PINs[val_size] = {3, 5, 6};
